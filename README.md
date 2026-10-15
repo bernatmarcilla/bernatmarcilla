@@ -9,7 +9,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Software 
 - ☕ A good coffee enthusiast. V60 is my daily driver.
 - ⌨️ Mechanical keyboard enthusiast. I love the ergonomic Alice layout and enjoy contributing to the community through projects like my [45% Alice Acrylic Case](https://github.com/bernatmarcilla/IkCase) and [HHKB Acrylic Case](https://github.com/bernatmarcilla/IkCase-hhkb).
 
-## � Note on My GitHub Activity
+## 💡 Note on My GitHub Activity
 
 > Most of my daily engineering work happens in private enterprise repositories or under my corporate account.
 >
